@@ -1,7 +1,2 @@
-## Hi there 👋
-
-<!--
-
-**Blammygg**
+## Blammygg 🌐
 🧙 Workin' on some stuff.
--->
